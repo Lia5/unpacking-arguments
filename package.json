@@ -1,0 +1,23 @@
+{
+  "name": "unpacking-arguments",
+  "version": "1.0.0",
+  "description": "Javascript kata to call a given function/lambda with a given arguments",
+  "main": "caller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ouadie-lahdioui/unpacking-arguments.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "kata"
+  ],
+  "author": "Ouadie Lahdioui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ouadie-lahdioui/unpacking-arguments/issues"
+  },
+  "homepage": "https://github.com/ouadie-lahdioui/unpacking-arguments#readme"
+}
